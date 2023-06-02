@@ -21,8 +21,8 @@ function Home() {
                                     I'm{' '}
                                     <span className="text-teal-accent-400"> Nabila Risha Juliana</span>
                                 </h2>
-                                <p className="max-w-xl mb-4 text-base text-brown-color4 md:text-lg">
-                                I'm a student at SMK Telkom Malang majoring in RPL, let's find out more about me ^3^
+                                <p className="max-w-xl mb-4 text-base text-white-color1 md:text-lg">
+                                I'm a student at SMK Telkom Malang majoring in RPL, let's find out more about me 
                                 </p>
                                 <button class="bg-white-color2 hover:bg-white-color1 text-black-color1 font-bold py-2 px-4 border-b-4 border-white-color3 hover:border-blue-500 rounded">
                                     <a

@@ -24,12 +24,12 @@ function Contact() {
 
               <h1 class="mt-2 text-4xl font-bold text-white-color1 md:text-2xl dark:text-white">My Contact</h1>
 
-              <p class="mt-3 text-brown-color4">these are some of my contacts, easy to chat me ^^</p>
+              <p class="mt-3 text-brown-color4">these are some of my contacts, easy to chat me </p>
             </div>
 
             <div class="grid grid-cols-1 gap-12 lg:col-span-2 sm:grid-cols-2 ">
 
-              <div class="p-4 rounded-lg bg-blue-50 md:p-6 hover:shadow-xl bg-white-color2">
+              <div class="p-4 rounded-lg  md:p-6 hover:shadow-xl bg-white-color2">
                 
                 <a href='https://instagram.com/nabilarisha01'>
                   <span class="inline-block p-3 text-blue-500 rounded-lg bg-blue-100/80 dark:bg-gray-700">
@@ -54,13 +54,13 @@ function Contact() {
               </div>
 
               <div class="p-4 rounded-lg bg-blue-50 md:p-6 hover:shadow-xl bg-white-color2">
-                <a href='mailto:nabila_juliana_30rpl@student.smktelkom-mlg.sch.id'>
+                <a href='mailto:nabilarishaaa@gmail.com'>
                  <span class="inline-block p-3 text-blue-500 rounded-lg bg-blue-100/80 dark:bg-gray-700">
                   <SiGmail style={{ width: "50px", height: "50px" }} />
                 </span>
 
                 <h2 class="mt-4 text-base font-semibold  dark:text-white">My Gmail</h2>
-                <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">nabila_juliana_30rpl@student.smktelkom-mlg.sch.id</p> 
+                <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">nabilarishaaa@gmail.com</p> 
                 </a>
                 
               </div>

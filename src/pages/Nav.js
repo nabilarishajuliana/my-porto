@@ -29,8 +29,8 @@ function Nav() {
             <div className='bg-white-color2 fixed top-0 w-[100%] z-10'>
                 <div className='container w-full mx-auto flex justify-between items-center py-4'>
                     <div className="flex mx-3">
-                        <img src="/asset/gifLuffy.gif" class="object-cover rounded-full mr-2" alt="Logo" width="30" height="30" />
-                        <div className=' text-[24px] text-pink-400 px-2 font-semibold'>My Profile</div>
+                        {/* <img src="/asset/gifLuffy.gif" class="object-cover rounded-full mr-2" alt="Logo" width="30" height="30" /> */}
+                        <div className=' text-[24px] text-pink-400 px-2 font-semibold'><span className="text-brown-color2">Mi</span>Profile</div>
                     </div>
 
                     <ul className="hidden md:flex gap-4 justify-between items-center px-14">
