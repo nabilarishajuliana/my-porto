@@ -151,7 +151,7 @@ function About() {
                                     </div>
                                 </article>
                                 <article className="flex flex-col bg-white-color2">
-                                    <a rel="noopener noreferrer" href="https://praktik2-kelompok7.vercel.app/" aria-label="Te nulla oportere reprimique his dolorum">
+                                    <a rel="noopener noreferrer" href="https://calculator-bmi-eight.vercel.app/" aria-label="Te nulla oportere reprimique his dolorum">
                                         <img alt="" className="object-cover w-full h-52 dark:bg-gray-500" src="/asset/porto7.png" />
                                     </a>
                                     <div className="flex flex-col flex-1 p-6">
